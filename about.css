@@ -1,0 +1,42 @@
+nav {
+    margin-left: 5%;
+    margin-right:5%;
+  }
+  h1 {
+    color:black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right:5%;
+  }
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right:5%;
+  }
+  h3 {
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5%;
+    margin-right:5%;
+  }
+  
+  p {
+    font-size:small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-left: 5%;
+    margin-right:5%;
+    background-color: aliceblue;
+  }
+  details{
+      font-style: italic;
+      margin-left: 5%;
+      margin-right:5%;
+
+  }
+  summary{
+      font-style:normal;
+      margin-left: 5%;
+      margin-right:5%;
+  }
