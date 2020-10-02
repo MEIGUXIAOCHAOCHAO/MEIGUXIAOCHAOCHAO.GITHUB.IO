@@ -10,39 +10,39 @@ body{
   opacity:0.7;
 }
 nav {
-    margin-left: 5%;
-    margin-right:5%;
+  margin-left: 5%;
+  margin-right:5%;
   }
-  h1 {
-    color:black;
-    background:#fff;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 15%;
-    margin-right:15%;
+h1 {
+  color:black;
+  background:#fff;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10%;
+  margin-right:10%;
   }
-  h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    text-align:center;
-    color:coral;
-    display:inline-flexbox;
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align:center;
+  color:coral;
+  display:inline-flexbox;
   }
-  h3 {
-    color:coral;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align:center;
-    font-weight: bold;
-    font-size: larger;
+h3 {
+  color:coral;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+  font-weight: bold;
+  font-size: larger;
   }
-  p {
+p {
   background:white;
   font-weight: bold;}
   
-  div {
+div {
   background:white;
-  margin-left: 15%;
-  margin-right:15%;
+  margin-left: 10%;
+  margin-right:10%;
   text-align: left;
   display:inline-flexbox;
   padding:10px;
@@ -53,20 +53,20 @@ div.chaochaosay {
     font-size: large;
   }
   
-  div.chaochaosay p{
-    margin-left: 15%;
-    margin-right:15%;
+div.chaochaosay p{
+    margin-left: 10%;
+    margin-right:10%;
   }
-  .center{
+.center{
     text-align:center;
   }
-  footer{
-      font-style: italic;
-      margin-left: 15%;
-      margin-right:15%;
-      background:#666666;
-      text-align:center;
-      font-size: small;
+footer{
+  font-style: italic;
+  margin-left: 10%;
+  margin-right:10%;
+  background:#666666;
+  text-align:center;
+  font-size: small;
 }
 
 
