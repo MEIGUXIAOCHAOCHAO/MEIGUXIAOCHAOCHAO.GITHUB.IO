@@ -59,7 +59,12 @@ div.chaochaosay p{
   }
 .center{
     text-align:center;
-  }
+}
+.center2{
+  text-align:center;
+  display:inline-flexbox;
+}
+
 footer{
   font-style: italic;
   margin-left: 10%;
