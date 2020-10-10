@@ -1,13 +1,4 @@
 body{
-  margin:0;
-  padding:0;
-  font-family:sans-serif;
-  background-image: url('../images/colorNYC.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-  background-position: center;
-  opacity:0.7;
 }
 h1 {
     color:black;
@@ -51,8 +42,8 @@ nav{
   }
   div{
     background:white;
-    margin-left: 10%;
-    margin-right:10%;
+    margin-left: 2%;
+    margin-right:2%;
     text-align: left;
     display:inline-flexbox;
     padding:10px;
